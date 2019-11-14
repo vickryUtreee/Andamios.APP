@@ -1,0 +1,8 @@
+D:\DEV\UTREEE\Andamios\Local\Andamios.DOMAIN\bin\Debug\netstandard2.0\Andamios.DOMAIN.deps.json
+D:\DEV\UTREEE\Andamios\Local\Andamios.DOMAIN\bin\Debug\netstandard2.0\Andamios.DOMAIN.dll
+D:\DEV\UTREEE\Andamios\Local\Andamios.DOMAIN\obj\Debug\netstandard2.0\Andamios.DOMAIN.csprojAssemblyReference.cache
+D:\DEV\UTREEE\Andamios\Local\Andamios.DOMAIN\obj\Debug\netstandard2.0\Andamios.DOMAIN.AssemblyInfoInputs.cache
+D:\DEV\UTREEE\Andamios\Local\Andamios.DOMAIN\obj\Debug\netstandard2.0\Andamios.DOMAIN.AssemblyInfo.cs
+D:\DEV\UTREEE\Andamios\Local\Andamios.DOMAIN\bin\Debug\netstandard2.0\Andamios.DOMAIN.pdb
+D:\DEV\UTREEE\Andamios\Local\Andamios.DOMAIN\obj\Debug\netstandard2.0\Andamios.DOMAIN.dll
+D:\DEV\UTREEE\Andamios\Local\Andamios.DOMAIN\obj\Debug\netstandard2.0\Andamios.DOMAIN.pdb
