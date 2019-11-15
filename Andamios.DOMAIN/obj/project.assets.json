@@ -3930,11 +3930,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\DEV\\UTREEE\\Andamios\\Local\\Andamios.DOMAIN\\Andamios.DOMAIN.csproj",
+      "projectUniqueName": "D:\\DEV\\UTREEE\\Andamios\\Local\\Andamios.APP\\Andamios.APP\\Andamios.DOMAIN\\Andamios.DOMAIN.csproj",
       "projectName": "Andamios.DOMAIN",
-      "projectPath": "D:\\DEV\\UTREEE\\Andamios\\Local\\Andamios.DOMAIN\\Andamios.DOMAIN.csproj",
+      "projectPath": "D:\\DEV\\UTREEE\\Andamios\\Local\\Andamios.APP\\Andamios.APP\\Andamios.DOMAIN\\Andamios.DOMAIN.csproj",
       "packagesPath": "C:\\Users\\vickr\\.nuget\\packages\\",
-      "outputPath": "D:\\DEV\\UTREEE\\Andamios\\Local\\Andamios.DOMAIN\\obj\\",
+      "outputPath": "D:\\DEV\\UTREEE\\Andamios\\Local\\Andamios.APP\\Andamios.APP\\Andamios.DOMAIN\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
